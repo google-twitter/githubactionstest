@@ -42,8 +42,8 @@ jobs:
       # .Net Framework 4.8 Setups
       ##################################################
       # Setting up msbuild for Net Framework
-      - name: .Net Fx - Setup MSBuild
-        uses: microsoft/setup-msbuild@v1.1
+      #- name: .Net Fx - Setup MSBuild
+        #uses: microsoft/setup-msbuild@v1.1
         
       # Setting up NugGet.exe for Net Framework
       #- name: .Net Fx - Setup NuGet.exe
